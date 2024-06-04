@@ -1,0 +1,20 @@
+{
+  "name": "foundry-zksync-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Foundry ZKSync Example",
+  "engines": {
+    "node": "18"
+  },
+  "scripts": {
+  },
+  "workspaces": [
+    "contracts"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ts-jest": "^29.1.1",
+    "typescript": "^4.5.4"
+  }
+}
+
