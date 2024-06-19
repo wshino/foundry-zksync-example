@@ -1,3 +1,5 @@
+## Notes: This repo is exmaple regarding the issue https://github.com/matter-labs/foundry-zksync/issues/411
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
