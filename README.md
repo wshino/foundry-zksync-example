@@ -1,4 +1,4 @@
-## Notes: This repo is exmaple regarding the issue https://github.com/matter-labs/foundry-zksync/issues/411
+## Notes: This repo is an example regarding the issue https://github.com/matter-labs/foundry-zksync/issues/411
 
 ## Foundry
 
